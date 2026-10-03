@@ -906,6 +906,14 @@ https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/39.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports TV
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup
+http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup 3
+http://103.102.27.173:84/tvfeed1002/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup
+https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1rSDw3M/images.jpg"group-title="Sport Update",Star Sports SL 1
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT1BTrM8/images.jpg"group-title="Sport Update",Star Sports SL 2
@@ -916,15 +924,6 @@ https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtfSZ09q/images.jpg"group-title="Sport Update",Sony Ten 5
 https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports TV
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup
-http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup 3
-http://103.102.27.173:84/tvfeed1002/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup
-https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/2.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports
 http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports
